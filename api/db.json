@@ -1,0 +1,151 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799.9,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+    },
+    {
+      "id": 2,
+      "title": "Processador AMD Ryzen 5 5600X, Cache 35MB, 3.7GHz (4.6GHz Max Turbo), AM4, Sem Vídeo - 100-100000065BOX",
+      "price": 1799.99,
+      "url": "https://www.kabum.com.br/produto/129451/processador-amd-ryzen-5-5600x-cache-35mb-3-7ghz-4-6ghz-max-turbo-am4-sem-video-100-100000065box",
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/129451/processador-amd-ryzen-9-5950x-cache-72mb-3-4ghz-4-9ghz-max-turbo-am4-100-100000065box_1602603581_gg.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Placa de Vídeo Afox AMD Radeon RX 580 8GB GDDR5 - AFRX580-8192D5H3-V2",
+      "price": 1299.99,
+      "url": "https://www.kabum.com.br/produto/229604/placa-de-video-afox-amd-radeon-rx-580-8gb-gddr5-afrx580-8192d5h3-v2",
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/229604/Placa-de-V-deo-Afox-AMD-Radeon-RX-580-8GB-GDDR5-AFRX580-8192D5H3-V2_1634665153_gg.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Placa de Vídeo Asus TUF NVIDIA Geforce GTX 1660 Ti 6G EVO Gaming, 6GB GDDR6, Preto - 90YV0CT8-M0NA00",
+      "price": 1399.99,
+      "url": "https://www.kabum.com.br/produto/226963/placa-de-video-asus-tuf-nvidia-geforce-gtx-1660-ti-6g-evo-gaming-6gb-gddr6-preto-90yv0ct8-m0na00?gclid=Cj0KCQjwt-6LBhDlARIsAIPRQcL4rtY8xb9vNn1WaFkgE0vcriF9EeZNC91y4wLgVGm3LU5ZLSC_x9EaAohDEALw_wcB",
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/226963/placa-de-video-asus-tuf-nvidia-geforce-gtx-1660-ti-6g-evo-gaming-6gb-gddr6-preto-90yv0ct8-m0na00_1631302658_gg.jpg"
+    },
+    {
+      "title": "Processador Intel Core i5-10600K, Cache 12MB, 4.1GHz (4.8GHz Max Turbo), LGA 1200 - BX8070110600K",
+      "url": "https://www.kabum.com.br/produto/112992/processador-intel-core-i5-10600k-cache-12mb-4-1ghz-4-8ghz-max-turbo-lga-1200-bx8070110600k",
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/112992/processador-intel-core-i5-10600k-cache-12mb-4-1ghz-lga-1200-bx8070110600k_1589203076_gg.jpg",
+      "price": 1599.99,
+      "id": 5
+    },
+    {
+      "initialValues": {
+        "title": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Placa de Vídeo ZOTAC GAMING GeForce RTX 3060 Twin Edge - 15 Gbps, 12GB, GDDR6, Ray Tracing - ZT-A30600E-10M",
+      "url": "https://www.kabum.com.br/produto/148656/placa-de-video-zotac-gaming-geforce-rtx-3060-twin-edge-15-gbps-12gb-gddr6-ray-tracing-zt-a30600e-10m",
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/148656/placa-de-video-zotac-gaming-geforce-rtx-3060-twin-edge-15-gbps-12gb-gddr6-ray-tracing-zt-a30600e-10m_1613994258_gg.jpg",
+      "price": 2999.99,
+      "id": 6
+    },
+    {
+      "initialValues": {
+        "title": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "price": 2499.99,
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/246836/placa-de-video-gigabyte-radeon-rx-6600-eagle-8gb-gddr6-preto-gv-r66eagle-8gd_1634155420_gg.jpg",
+      "url": "https://www.kabum.com.br/produto/246836/placa-de-video-gigabyte-radeon-rx-6600-eagle-8gb-gddr6-preto-gv-r66eagle-8gd",
+      "title": "Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE, 8GB GDDR6, Preto - GV-R66EAGLE-8GD",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "comment": "De R$ 1999,99 \n por R$1799,99 à vista",
+      "promotionId": 2,
+      "userId": 2
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "Hey ho",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "Test",
+      "parentId": 3,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "sub resposta",
+      "parentId": 4,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "resposta tela hd",
+      "parentId": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "resposta",
+      "parentId": 2,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "nova resposta",
+      "parentId": 2,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "parentId": 7,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Phillip Jacobs",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/64.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Todd Mitchell",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/16.jpg"
+    }
+  ]
+}
